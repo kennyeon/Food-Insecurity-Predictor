@@ -1,0 +1,6 @@
+# Too Pullz Project: Food Security
+**How can we identify instances of food insecurity across the U.S., based on a collection of potential indicators, in order to accurately predict the proportion of insecurity and properly allocate resources where they are most needed?**
+
+The prevailing definition of food security, agreed upon at the 1996 World Food Summit, is “access by all members at all times to enough food for an active, healthy life”. This implies the ready availability of nutritionally adequate and safe foods, and an assured ability to acquire acceptable foods in socially acceptable ways. The United States Census Bureau last conducted a survey regarding food security in December 2021, and we are looking to use the responses from this survey to categorize whether or not a household has high food security or low food security. 
+
+From general research, there is a consensus that “if [the government] knew better the predictive accuracy of different indicators in forecasting future food security states, [they] could cost-effectively concentrate data collection measures of which targetable actions can be most reliably programmed”. Thus, this issue and need for predictive accuracy in models regarding the United States’ food security in households warrants our project on predicting whether a household will be secure food-wise.  
