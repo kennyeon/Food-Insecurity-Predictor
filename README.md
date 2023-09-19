@@ -11,7 +11,7 @@ From general research, there is a consensus that “if [the government] knew bet
 ## Contents
 ###### Within the repository you will be able to find the following:
 - Code Folder
-  - Contains all the code we used to develop our linear regression and logistic model
+  - Contains all the code we used to develop our logistic regression model
   - Dataset
 - Final Report
   - Presents a thorough breakdown of our findings and all the steps that led up to it
